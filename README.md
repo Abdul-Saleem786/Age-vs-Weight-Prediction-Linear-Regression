@@ -1,11 +1,11 @@
 **Age vs Weight Prediction - Linear Regression**
-📊 Problem Statement
+**Problem Statement**
 This project demonstrates a simple Linear Regression model using Python's scikit-learn library to predict weight based on age. The model is trained on sample data and visualized using matplotlib.
-🧪 Sample Data
+**Sample Data**
 Age (years):    [5, 10, 15, 20]
 Weight (kg):    [10, 20, 30, 40]
 This shows a perfect linear relationship: Weight = 2 × Age
-📈 Output
+**Output**
 The program:
 - Trains the model using the above data.
 - Predicts weight for future ages: 25 and 30.
@@ -13,14 +13,14 @@ The program:
   - Original data (blue)
   - Regression line (green)
   - Future predictions (red)
-🧠 Technologies Used
+**Technologies Used**
 - Python
 - NumPy
 - Matplotlib
 - Scikit-learn (Linear Regression)
-🚀 How to Run
+**How to Run**
 1. Clone this repository:
-   git clone https://github.com/yourusername/Age-vs-Weight-Prediction-Linear-Regression.git
+   git clone https://github.com/Abdul-Saleem786/Age-vs-Weight-Prediction-Linear-Regression
    cd Age-vs-Weight-Prediction-Linear-Regression
 
 2. Install the required libraries (if not already installed):
@@ -28,7 +28,7 @@ The program:
 
 3. Run the script:
    python main.py
-🧾 Author
+**Author**
 Abdul Saleem A
 B.Tech EEE (AI & ML Specialization)
 SMVEC, Puducherry
