@@ -33,4 +33,4 @@ Abdul Saleem A
 B.Tech EEE (AI & ML Specialization)
 SMVEC, Puducherry
 LinkedIn: https://www.linkedin.com/in/abdulsaleem03
-GitHub: https://github.com/Abdul-Saleem786
+GitHub: https://github.com/CodeWithAbdulSaleem
